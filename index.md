@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a Jivited Academia
 
 You can use the [editor on GitHub](https://github.com/joelramonph/medicare/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
